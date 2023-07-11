@@ -16,7 +16,7 @@ public class MyfirstappApplication {
 		SpringApplication.run(MyfirstappApplication.class, args);
 	}
 
-	@Bean
+	/*@Bean
 	public CommandLineRunner commandLineRunner(StudentDAO studentDAO) {
 		return runner -> {
 			//createStudent(studentDAO);
@@ -28,7 +28,7 @@ public class MyfirstappApplication {
 			//deleteStudent(studentDAO);
 			//deleteAllStudent(studentDAO);
 		};
-	}
+	}*/
 
 	private void deleteAllStudent(StudentDAO studentDAO) {
 		int deletedNumDeleted = 0;

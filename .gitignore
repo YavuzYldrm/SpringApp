@@ -1,0 +1,11 @@
+.idea/
+firstapp.log.2023-06-29.0.gz
+firstapp.log.2023-06-30.0.gz
+target/classes/com/maqant/springboot/demo/myfirstapp/dao/
+target/classes/com/maqant/springboot/demo/myfirstapp/entity/
+target/classes/com/maqant/springboot/demo/myfirstapp/rest/DemoRestController.class
+target/maven-archiver/
+target/maven-status/
+target/myfirstapp-0.0.1-SNAPSHOT.jar
+target/myfirstapp-0.0.1-SNAPSHOT.jar.original
+target/surefire-reports/

@@ -1,2 +1,17 @@
-package com.maqant.springboot.demo.myfirstapp.rest;public class StudentNotFoundException {
+package com.maqant.springboot.demo.myfirstapp.rest;
+
+public class StudentNotFoundException extends RuntimeException{
+    StudentNotFoundException() {}
+
+    public StudentNotFoundException(String message) {
+        super(message);
+    }
+
+    public StudentNotFoundException(String message, Throwable cause) {
+        super(message, cause);
+    }
+
+    public StudentNotFoundException(Throwable cause) {
+        super(cause);
+    }
 }
