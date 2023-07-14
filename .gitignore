@@ -1,3 +1,16 @@
+target/classes/com/maqant/springboot/demo/myfirstapp/dao/
+target/classes/com/maqant/springboot/demo/myfirstapp/entity/
+target/classes/com/maqant/springboot/demo/myfirstapp/rest/DemoRestController.class
+target/classes/com/maqant/springboot/demo/myfirstapp/rest/StudentErrorResponse.class
+target/classes/com/maqant/springboot/demo/myfirstapp/rest/StudentNotFoundException.class
+target/classes/com/maqant/springboot/demo/myfirstapp/rest/StudentRestController.class
+target/classes/com/maqant/springboot/demo/myfirstapp/rest/StudentRestExceptionHandler.class
+target/maven-archiver/
+target/maven-status/
+.idea/
+target/myfirstapp-0.0.1-SNAPSHOT.jar
+target/myfirstapp-0.0.1-SNAPSHOT.jar.original
+target/surefire-reports/
 .idea/
 firstapp.log.2023-06-29.0.gz
 firstapp.log.2023-06-30.0.gz
